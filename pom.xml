@@ -50,7 +50,7 @@
 			<version>${urlrewrite.version}</version>
 		</dependency>
 		<!-- Spring Framework Projet libraries -->
-		<dependency>
+		<dependenc>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
