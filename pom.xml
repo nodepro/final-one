@@ -49,7 +49,7 @@
 			<artifactId>urlrewritefilter</artifactId>
 			<version>${urlrewrite.version}</version>
 		</dependency>
-		<!-- Spring Framework Project libraries -->
+		<!-- Spring Framework Projet libraries -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
