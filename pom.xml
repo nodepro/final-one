@@ -1,9 +1,4 @@
-
-		<dependency>
-			<groupId>org.apache.struts</groupId>
-			<artifactId>com.springsource.org.apache.struts</artifactId>
-			<version>${struts.version}</version>
-		</dependency>
+	</dependency>
 		<dependency>
 			<groupId>javax.xml.rpc</groupId>
 			<artifactId>com.springsource.javax.xml.rpc</artifactId>
